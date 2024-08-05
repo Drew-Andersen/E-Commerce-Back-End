@@ -6,7 +6,18 @@ class Category extends Model {}
 
 Category.init(
   {
-    // define columns
+    // Sets the id value to auto increment as the primary key and cannot be empty
+    id: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+      primaryKey: true,
+      autoIncrement: true
+    },
+    // A string that cannot be empty
+    category_name: {
+      type: DataTypes.STRING,
+      allowNull: false
+    }
   },
   {
     sequelize,
