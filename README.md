@@ -5,7 +5,10 @@
 
 ## Images
 ![Image of the terminal showing localhost is now listening](<./images/treminal-localhost.png>)
-![Image of Insomnia](<public/assets/images/Note-Taker.png>)
+![Image of Insomnia](<./images/Insomnia-1.png>)
+![Image of Insomnia](<./images/Insomnia-2.png>)
+![Image of Insomnia](<./images/Insomnia-3.png>)
+![Image of Insomnia](<./images/Insomnia-4.png>)
 
 ## Table of Contents
 - [Description](#description)
